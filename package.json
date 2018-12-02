@@ -1,0 +1,32 @@
+{
+  "name": "memcache-middleware",
+  "version": "1.2.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/descuentocity/memcache-middleware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/descuentocity/memcache-middleware/issues"
+  },
+  "homepage": "https://github.com/descuentocity/memcache-middleware#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "memjs": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "express": "^4.16.4"
+  }
+}
